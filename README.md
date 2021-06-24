@@ -63,4 +63,4 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImdjbXMtbWFpbi1wcm9kdWN0aW9uIn0.eyJ2
 
 ## Notes:
 
-Original Data https://ridb.recreation.gov/
+Original Data https://ridb.recreation.gov/ (Downloads as CSV)
