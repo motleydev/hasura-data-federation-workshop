@@ -71,8 +71,8 @@ export const typeDefs = gql`
   }
 
   input Coords {
-    lat: Float
-    lon: Float
+    lat: String
+    lon: String
   }
 
   type Query {
