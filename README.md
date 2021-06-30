@@ -37,7 +37,7 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImdjbXMtbWFpbi1wcm9kdWN0aW9uIn0.eyJ2
 
 **Github Repo for Weather (this repo)**  
 [Link](https://github.com/motleydev/hasura-data-federation-workshop)  
-`https://api-eu-central-1.graphcms.com/v2/ckq2hi73s512a01yxaqef2dtq/master`
+`https://hasura-data-federation-workshop.vercel.app/api/graphql`
 
 ## Steps
 
